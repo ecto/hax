@@ -29,7 +29,7 @@ wut = function(){
     }
     a += r;
   }
-  console.log(a.green);
+  console.log(process.argv[2] ? a[process.argv[2]] : a.green);
 },
 
 lol = function(){
