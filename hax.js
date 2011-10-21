@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 var tty = require('tty'),
     colors = require('colors');

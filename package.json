@@ -13,7 +13,7 @@
   },
   "bin": {
     "hax": "hax.js"
-  }
+  },
   "dependencies": {
     "colors": "*"
   },
