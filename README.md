@@ -11,3 +11,7 @@ i did it for the lulz
 # usage
 
     hax
+
+    hax blue
+
+    hax rainbow
