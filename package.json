@@ -2,15 +2,20 @@
   "author": "Cam Pedersen <diffference@gmail.com> (http://campedersen.com/)",
   "name": "hax",
   "description": "lolwut",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/ecto/hax.git"
   },
-  "main": "index.js",
+  "main": "hax.js",
   "engines": {
     "node": "*"
   },
-  "dependencies": {},
+  "bin": {
+    "hax": "hax.js"
+  }
+  "dependencies": {
+    "colors": "*"
+  },
   "devDependencies": {}
 }
